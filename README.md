@@ -13,7 +13,7 @@ vagrant ssh
 ```
 
 ## Setting Up your website
-Sources for you site are localed in `gh-pages/`.
+Sources for you site are localed on the  `gh-pages/` branch.
 
 Start by editing the information in `_config.yml` to whatever you desire
 
